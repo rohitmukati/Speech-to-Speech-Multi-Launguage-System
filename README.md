@@ -128,12 +128,6 @@ It will open a Gradio web interface in your browser where you can:
 
 ---
 
-## 📸 Demo
-
-![demo gif or image here]
-
----
-
 ## 🔮 Future Improvements
 
 - 🌐 Add multilingual conversational support
