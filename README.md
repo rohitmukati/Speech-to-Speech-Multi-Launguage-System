@@ -5,7 +5,7 @@ A multilingual Speech-to-Speech AI Assistant that takes audio input in Hindi (or
 This project demonstrates a multimodal pipeline integrating:
 - 🎙️ Whisper (ASR - Speech to Text)
 - 🧠 IndicBERT (Text classification)
-- 🔊 Parler-TTS (Text to Speech)
+- 🔊 Parler-TTS (Text to Speech) 
 
 ---
 
